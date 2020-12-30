@@ -1,0 +1,14 @@
+C:\Users\shama\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.csprojAssemblyReference.cache
+C:\Users\shama\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.csproj.CoreCompileInputs.cache
+C:\Users\shama\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\bin\Debug\ProducerConsumerQueue.exe.config
+C:\Users\shama\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\bin\Debug\ProducerConsumerQueue.exe
+C:\Users\shama\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\bin\Debug\ProducerConsumerQueue.pdb
+C:\Users\shama\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.exe
+C:\Users\shama\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.pdb
+C:\Users\Shamanth B S\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\ProducerConsumerQueue\bin\Debug\ProducerConsumerQueue.exe.config
+C:\Users\Shamanth B S\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\ProducerConsumerQueue\bin\Debug\ProducerConsumerQueue.exe
+C:\Users\Shamanth B S\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\ProducerConsumerQueue\bin\Debug\ProducerConsumerQueue.pdb
+C:\Users\Shamanth B S\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.csprojAssemblyReference.cache
+C:\Users\Shamanth B S\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.csproj.CoreCompileInputs.cache
+C:\Users\Shamanth B S\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.exe
+C:\Users\Shamanth B S\source\repos\ProducerConsumerQueue\ProducerConsumerQueue\ProducerConsumerQueue\obj\Debug\ProducerConsumerQueue.pdb
